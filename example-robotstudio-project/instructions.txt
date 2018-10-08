@@ -1,0 +1,5 @@
+1. Open ABB RobotStudio.
+2. Under File tab select Share and and click on Unpack and Work.
+3. Proceed with the Upack & Work dialog.
+4. Under Simulation tab click on Play.
+5. Done! System is ready for testing with the interface.

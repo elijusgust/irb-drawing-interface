@@ -1,0 +1,4 @@
+1. Open setup.exe.
+2. Proceed with the instalation dialog.
+3. Once the installation is done, a shorcut will be added to Start Menu.
+4. Done! Open the program, connect and start drawing.
